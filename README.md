@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in Java related to loop control and print statements.  The `BuggyLoop.java` file showcases the erroneous code, while `FixedLoop.java` provides the corrected version.  The problem arises from the order of operations within the loop and how the `break` statement interacts with subsequent lines.
